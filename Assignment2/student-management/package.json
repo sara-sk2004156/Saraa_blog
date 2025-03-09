@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "name": "student-management",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
